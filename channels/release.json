@@ -1,0 +1,58 @@
+{
+  "schema": 1,
+  "channel": "release",
+  "code": 642,
+  "name": "6.4.2-testing",
+  "desc": "Testing build",
+  "commit": "d7967646bf6f9ffc29b5e1bd46e7d3b1254303d8",
+  "artifacts": [
+    {
+      "mode": "mobile",
+      "abi": "arm64_v8a",
+      "packageName": "com.fongmi.android.tv",
+      "url": "https://github.com/3togo/TV-updates/releases/download/testing-642-release-d7967646bf6f/mobile-arm64_v8a-d7967646bf6f.apk",
+      "sha256": "a0b78dfa8984eb17175e08423e672cd74f0f525c563c73a31d2f72b646657dd5",
+      "certificateSha256": "43835468ebb93b20aa34c1fc12775583f1b6b6280ff87826b0ef6b1425a1795b"
+    },
+    {
+      "mode": "mobile",
+      "abi": "armeabi_v7a",
+      "packageName": "com.fongmi.android.tv",
+      "url": "https://github.com/3togo/TV-updates/releases/download/testing-642-release-d7967646bf6f/mobile-armeabi_v7a-d7967646bf6f.apk",
+      "sha256": "bc0d4850181116055423dd640c79298219b9173e84c51745369666197a45746d",
+      "certificateSha256": "43835468ebb93b20aa34c1fc12775583f1b6b6280ff87826b0ef6b1425a1795b"
+    },
+    {
+      "mode": "leanback",
+      "abi": "arm64_v8a",
+      "packageName": "com.fongmi.android.tv",
+      "url": "https://github.com/3togo/TV-updates/releases/download/testing-642-release-d7967646bf6f/leanback-arm64_v8a-d7967646bf6f.apk",
+      "sha256": "f4588091786b5429b003e9b1bad780d15244dea17e6c0f071c289bef9f7848c2",
+      "certificateSha256": "43835468ebb93b20aa34c1fc12775583f1b6b6280ff87826b0ef6b1425a1795b"
+    },
+    {
+      "mode": "leanback",
+      "abi": "armeabi_v7a",
+      "packageName": "com.fongmi.android.tv",
+      "url": "https://github.com/3togo/TV-updates/releases/download/testing-642-release-d7967646bf6f/leanback-armeabi_v7a-d7967646bf6f.apk",
+      "sha256": "512be04294ab1b39249756bb6935829fd66ccdb107ba1cd18bef7965b0f0d2a3",
+      "certificateSha256": "43835468ebb93b20aa34c1fc12775583f1b6b6280ff87826b0ef6b1425a1795b"
+    },
+    {
+      "mode": "leanback_lite",
+      "abi": "arm64_v8a",
+      "packageName": "com.fongmi.android.tv",
+      "url": "https://github.com/3togo/TV-updates/releases/download/testing-642-release-d7967646bf6f/leanback_lite-arm64_v8a-d7967646bf6f.apk",
+      "sha256": "3cc67b3c50205e2164dbd713ee0a49ea92c3704b955e3b12b6860efb47b4896f",
+      "certificateSha256": "43835468ebb93b20aa34c1fc12775583f1b6b6280ff87826b0ef6b1425a1795b"
+    },
+    {
+      "mode": "leanback_lite",
+      "abi": "armeabi_v7a",
+      "packageName": "com.fongmi.android.tv",
+      "url": "https://github.com/3togo/TV-updates/releases/download/testing-642-release-d7967646bf6f/leanback_lite-armeabi_v7a-d7967646bf6f.apk",
+      "sha256": "6e4276f3a59ebf569a944c53c1c4050381e6bcf62d959c04ca171291c7869ddd",
+      "certificateSha256": "43835468ebb93b20aa34c1fc12775583f1b6b6280ff87826b0ef6b1425a1795b"
+    }
+  ]
+}
