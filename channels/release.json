@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "channel": "release",
-  "code": 645,
+  "code": 646,
   "name": "6.4.4-testing",
   "desc": "Testing build",
   "commit": "b14e0d5e7b50a8e56286f4c7a5afd5ce393a5469",
@@ -10,48 +10,48 @@
       "mode": "mobile",
       "abi": "arm64_v8a",
       "packageName": "com.fongmi.android.tv",
-      "url": "https://github.com/3togo/TV-updates/releases/download/testing-645-release-20260917b14e/mobile-arm64_v8a-20260917b14e.apk",
-      "sha256": "951a30521ef67e8030eb9d64af04d77ae0f3705aa72d07b512731b4e653f91a5",
+      "url": "https://github.com/3togo/TV-updates/releases/download/testing-646-release-20260917b14e/mobile-arm64_v8a-20260917b14e.apk",
+      "sha256": "139f88ba8d198d0c78d3ca12f9e5c9cfa8bbd65cfcee286ca18489cf04f0d251",
       "certificateSha256": "43835468ebb93b20aa34c1fc12775583f1b6b6280ff87826b0ef6b1425a1795b"
     },
     {
       "mode": "mobile",
       "abi": "armeabi_v7a",
       "packageName": "com.fongmi.android.tv",
-      "url": "https://github.com/3togo/TV-updates/releases/download/testing-645-release-20260917b14e/mobile-armeabi_v7a-20260917b14e.apk",
-      "sha256": "e41f616d7f159472e7588ec8357ca58acda5d2eed4a7b9b90c4b40ab2a59ae58",
+      "url": "https://github.com/3togo/TV-updates/releases/download/testing-646-release-20260917b14e/mobile-armeabi_v7a-20260917b14e.apk",
+      "sha256": "84fcc14eba31202afd60c48caed714e1befc6592988dfa8539c794b27d7a2e4d",
       "certificateSha256": "43835468ebb93b20aa34c1fc12775583f1b6b6280ff87826b0ef6b1425a1795b"
     },
     {
       "mode": "leanback",
       "abi": "arm64_v8a",
       "packageName": "com.fongmi.android.tv",
-      "url": "https://github.com/3togo/TV-updates/releases/download/testing-645-release-20260917b14e/leanback-arm64_v8a-20260917b14e.apk",
-      "sha256": "bc498b39ca216f1e02ab27c3074c4789dd3f084e046c7e18c9508e3b84c39fb0",
+      "url": "https://github.com/3togo/TV-updates/releases/download/testing-646-release-20260917b14e/leanback-arm64_v8a-20260917b14e.apk",
+      "sha256": "9c34953f8d59acd3f6a52703e12cc8b87a893cf15ef927344a85302795551869",
       "certificateSha256": "43835468ebb93b20aa34c1fc12775583f1b6b6280ff87826b0ef6b1425a1795b"
     },
     {
       "mode": "leanback",
       "abi": "armeabi_v7a",
       "packageName": "com.fongmi.android.tv",
-      "url": "https://github.com/3togo/TV-updates/releases/download/testing-645-release-20260917b14e/leanback-armeabi_v7a-20260917b14e.apk",
-      "sha256": "d525d1a1a370d993d7d8c0709855ffb16296117b732d1027d60bd41bc454ed25",
+      "url": "https://github.com/3togo/TV-updates/releases/download/testing-646-release-20260917b14e/leanback-armeabi_v7a-20260917b14e.apk",
+      "sha256": "d7a5accbd8c459eb6315deb9bb4b94956bc8a58f1064366355ac1708709165c1",
       "certificateSha256": "43835468ebb93b20aa34c1fc12775583f1b6b6280ff87826b0ef6b1425a1795b"
     },
     {
       "mode": "leanback_lite",
       "abi": "arm64_v8a",
       "packageName": "com.fongmi.android.tv",
-      "url": "https://github.com/3togo/TV-updates/releases/download/testing-645-release-20260917b14e/leanback_lite-arm64_v8a-20260917b14e.apk",
-      "sha256": "798ca055d2513437f27d9dd42a35d173bb696b9fe2bf3d38a1e01e66290633d1",
+      "url": "https://github.com/3togo/TV-updates/releases/download/testing-646-release-20260917b14e/leanback_lite-arm64_v8a-20260917b14e.apk",
+      "sha256": "f87a11da0da1b63b9b27f32733c730a47da3078bb0fc202ec11311db22533f78",
       "certificateSha256": "43835468ebb93b20aa34c1fc12775583f1b6b6280ff87826b0ef6b1425a1795b"
     },
     {
       "mode": "leanback_lite",
       "abi": "armeabi_v7a",
       "packageName": "com.fongmi.android.tv",
-      "url": "https://github.com/3togo/TV-updates/releases/download/testing-645-release-20260917b14e/leanback_lite-armeabi_v7a-20260917b14e.apk",
-      "sha256": "379048cf41105e79421237c70516c1593c955f9c9c5802c6f171814840139304",
+      "url": "https://github.com/3togo/TV-updates/releases/download/testing-646-release-20260917b14e/leanback_lite-armeabi_v7a-20260917b14e.apk",
+      "sha256": "1f1ac4822698e5a4a7e8bec3b8d2b5e58d6b7903e90202d3e688c896836c9030",
       "certificateSha256": "43835468ebb93b20aa34c1fc12775583f1b6b6280ff87826b0ef6b1425a1795b"
     }
   ]
